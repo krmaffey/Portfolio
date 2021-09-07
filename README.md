@@ -11,6 +11,7 @@ In addition to my passion for emerging technology and policy, here is a list of 
 * Working out (swimming, lifting)
 * Photography
 
+Here's a picture I took in Pittsburgh in Fall 2020:
 ![A picture I took in Pittsburgh, Fall 2020](IMG_1423.jpeg)
 
 ## What I Hope to Learn
