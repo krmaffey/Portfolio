@@ -20,4 +20,18 @@ While I care deeply about data-driven decisions (particularly at a strategic lev
 I hope that my time in this course allows me to have a sense of how to construct a visualization with the appropriate color and typology and story for any given context. I hope it makes me feel more comfortable when I go to design something, and that I can do so in less time than I can right now. Once I graduate from CMU, I'll go back to work for the organization that is funding my degree.
 
 ## Portfolio
-This is where I'll put all of my projects!
+
+### Data Visualization #1
+This will be a really exceptional visualization.
+
+### Critique by Design
+This will be a masterful critique.
+
+### Final Project (Part 1 of 3)
+This will be the first installment of my final project.
+
+### Final Project (Part 2 of 3)
+This will be the second installment of my final project.
+
+### Final Project (Part 3 of 3)
+This will conclude my final project!
