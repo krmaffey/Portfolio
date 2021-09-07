@@ -1,5 +1,8 @@
 # Portfolio
  This is a public collection of visualization projects that I'm developing as part of a CMU graduate course.
+ 
+ Here's one to start:
+ <div class="flourish-embed flourish-chart" data-src="visualisation/7205610"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## About Me
 I'm a graduate student at Carnegie Mellon University focusing on data analytics and the implementation of emerging technologies, such as machine learning. My academic background is in social science, but I was exposed to the critical nature of parsing data while working after college. That paired with some experiences in big-picture thinking led me to hone in on emerging technologies and policy, particularly at a federal level. Carnegie Mellon is a spectacular place to channel my passion into a concrete skillset, and I count myself very fortunate to be here.
