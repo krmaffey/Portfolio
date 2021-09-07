@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio <h1>
  This is a public collection of visualization projects that I'm developing as part of a CMU graduate course.
 
 # About Me
