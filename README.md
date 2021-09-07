@@ -8,9 +8,9 @@ I'm a graduate student at Carnegie Mellon University focusing on data analytics 
 In addition to my passion for emerging technology and policy, I am an avid reader of the Economist so I'm really looking forward to creating excellent graphics just like they do! I enjoy reading (nonfiction is my favorite) and writing (I've made it a daily habit), and I love working out (particularly swimming and lifting). I sometimes dabble in photography, when the time (and light) is right.
 
 Here's a picture I took in Pittsburgh during Fall 2020:
-<img src="https://github.com/krmaffey/Portfolio/blob/main/IMG_1423.jpeg" width=300 align=center>
+<img src="https://github.com/krmaffey/Portfolio/blob/main/IMG_1423.jpeg" width=600 align=center>
 <!-- ![A picture I took in Pittsburgh, Fall 2020](IMG_1423.jpeg)
-<!-- This was all added as part of setting up my online portfolio on Sep 7
+<!-- This was all added as part of setting up my online portfolio on Sep 7 -->
 
 
 ## What I Hope to Learn
@@ -36,4 +36,4 @@ This will be the second installment of my final project.
 ### Final Project (Part 3 of 3)
 This will conclude my final project!
 
-<!-- On Sep 7 I laid out the headers for assignments in this section.
+<!-- On Sep 7 I laid out the headers for assignments in this section. -->
