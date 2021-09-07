@@ -11,8 +11,7 @@ In addition to my passion for emerging technology and policy, here is a list of 
 * Working out (swimming, lifting)
 * Photography
 
-Here's a picture I took last fall here in Pittsburgh:
-
+![A picture I took in Pittsburgh, Fall 2020](IMG_1423.jpeg)
 
 ## What I Hope to Learn
 While I care deeply about data-driven decisions (particularly at a strategic level), I have always found it challenging to appropriately portray the data in a digestible way. Professionally this has led me to default to very simple pictures or charts and then to do all the explaining verbally, or in a memo format. However this is not always a possibility, and I especially struggled this past summer while working for a startup. I found myself wishing I had a better sense of color and structure and function when it came to the visualizations of all the hard work we had done on a computational project.
