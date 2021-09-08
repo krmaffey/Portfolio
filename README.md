@@ -23,7 +23,7 @@ I hope that my time in this course allows me to have a sense of how to construct
 ## Portfolio
 
 ### Data Visualization #1
-This will be a really exceptional visualization.
+In this assignment, we work with OECD data and a few types of visualizations to tell a story. Click [here](/dataviz_govdebt.md) to check it out!
 
 ### Critique by Design
 This will be a masterful critique.
