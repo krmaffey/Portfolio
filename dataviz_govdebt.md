@@ -10,6 +10,9 @@ We started with an OECD-generated visualization that shows the range of governme
 
 ## Working with Flourish (Part 2)
 
-If you'd like to return to my main page, you can do so [here](/README.md).
+<div class="flourish-embed flourish-chart" data-src="visualisation/7213245"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+### Notes
+If you'd like to return to my main page, you can do so [here](/README.md).
 <a name="note1">1</a>: For more on why I think 2016 was an interesting year, see [this article](https://www.economist.com/leaders/2016/12/24/how-to-make-sense-of-2016) from The Economist.
