@@ -21,7 +21,7 @@ This final visualization was not required by the assignment, but I found myself 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7245222"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Analysis of Visualizations
-All three of the above graphs are created with data from the OECD on general government debt. The data is a ratio of debt-to-GDP for each country, and it is sourced from [here](https://data.oecd.org/gga/general-government-debt.htm). 
+All three of the above graphs are created with data from the OECD on general government debt. The data is a ratio of debt-to-GDP for each country, and it is sourced from [here](https://data.oecd.org/gga/general-government-debt.htm). According to the OECD's definition, debt-to-GDP raio is a "key indicator" of sustainable government finances. Their calculation of debt included currency, loans, and pensions among other things.
 
 The first graph is very fun. I didn't find it particularly useful for making conclusions - that is, I found it to be too general to use for comparisons or analysis on its own. It is a lovely interactive tool that showcases a large amount of data compactly, but isn't a graph that immediately lends itself to analytic conclusions. I also found it hard to highlight more than one country as the default color choices were loud and disparate.
 
