@@ -22,7 +22,7 @@ I hope that my time in this course allows me to have a sense of how to construct
 
 ## Portfolio
 
-### Data Visualization #1
+### [Data Visualization #1](/dataviz_govdebt.md)
 In this assignment, we work with OECD data and a few types of visualizations to tell a story. Click [here](/dataviz_govdebt.md) to check it out!
 
 ### Critique by Design
