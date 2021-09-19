@@ -25,8 +25,8 @@ I hope that my time in this course allows me to have a sense of how to construct
 ### [Data Visualization #1](/dataviz_govdebt.md)
 In this assignment, we work with OECD data and a few types of visualizations to tell a story. Click [here](/dataviz_govdebt.md) to check it out!
 
-### Critique by Design
-This will be a masterful critique.
+### [Critique by Design](/critique_by_design.md)
+In this assignment, we find and critique a visualization, then create our own version using feedback during the design process. Click [here](/critique_by_design.md) to check it out!
 
 ### Final Project (Part 1 of 3)
 This will be the first installment of my final project.
