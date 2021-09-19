@@ -8,7 +8,7 @@ I did run into some data snafus, and as such took a bit of license with the date
 
 ![Women's Employment Viz](critique_viz.png)
 
-Source: ["Women, Marriage, Education, and Occupation in the United States from 1940-2000."](https://journeys.dartmouth.edu/censushistory/2016/11/03/women-marriage-and-education-in-the-united-states-from-1940-2000/) (A direct link to the visualization itself can be found [here](https://cpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/0/682/files/2016/11/occ2.png))
+Source: ["Women, Marriage, Education, and Occupation in the United States from 1940-2000."](https://journeys.dartmouth.edu/censushistory/2016/11/03/women-marriage-and-education-in-the-united-states-from-1940-2000/) (A link to just the visualization itself can be found [here](https://cpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/0/682/files/2016/11/occ2.png).)
 
 ## Step 2: Critiquing the Visualization
 This step was straightforward for me because I spent a fair bit of time looking at the visualization before I decided to use it. The color was the most prominent part that I focused on in my critique, as well as choosing a comparison tool (a stacked bar chart) that made it hard to distinguish comparison and change over time.
