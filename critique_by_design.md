@@ -3,7 +3,7 @@ In this assignment, we selected a visualization to critique and then did so usin
 
 ## Step 1: Selecting a Visualization
 I found myself drawn to data on women's education and employment, and came across some interesting infographics and visualizations. This one caught my eye in part because it uses color in a way that is very loud, and also in part because I was curious what someone could say with it.
-
+![Women's Employment Viz](critique_viz.png)
 
 ## Working
 The second step
