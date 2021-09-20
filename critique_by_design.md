@@ -11,14 +11,14 @@ I did run into some data snafus, and as such took a bit of license with the date
 Source: ["Women, Marriage, Education, and Occupation in the United States from 1940-2000"](https://journeys.dartmouth.edu/censushistory/2016/11/03/women-marriage-and-education-in-the-united-states-from-1940-2000/) (A link to just the visualization can be found [here](https://cpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/0/682/files/2016/11/occ2.png).)
 
 ## Step 2: Critiquing the Visualization
-My first reaction when I saw this visualization was to blink, because the colors are very overwhelming. Other than color, my conclusion from the critique was that the type of chart chosen here does not effectively communicate the conclusions that the author writes about. I think the author likely found all of this data important - which it is - and focused more on getting all of the data onto the screen rather than emphasizing their takeaways. I also found that irrespective of the audience, this visualization would not be effective.
+My first reaction when I saw this visualization was to blink, because the colors are very overwhelming. Other than needing a redesign for its color, another conclusion from the critique was that the type of chart chosen here does not effectively communicate the conclusions that the author writes about. I think the author likely found all of this data important - which it is - and focused more on getting all of the data onto the screen rather than emphasizing their takeaways. I also found that irrespective of the audience, this visualization would not be effective.
 
 ## Step 3: Wireframing a Solution
 I spent a lot of time on finding data after the original data source did not work, and as such spent a lot of time thinking about how the data should be structured, aggregated, and implemented. I found it hard to show even a portion of the data that was shown in the original visualization without being overwhelmed, so I started breaking out the takeaways and ended up with a panel of visualizations that each depict one of the takeaways described in the article.
 
 ![My Wireframe](wireframe.jpeg)
 
-I ended up using data from [here](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf) and [here](https://www.bls.gov/cps/cpsaat09.htm) for 1990 and 2020, respectively. I also used [this page](https://www.bls.gov/cps/cpsaat11.htm) to interpolate race for the data from 2020 since it was not inherently aggregated in the same manner as that from 1990.
+I ended up using data from [here](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf) and [here](https://www.bls.gov/cps/cpsaat09.htm) for 1990 and 2020 respectively. I also used [this page](https://www.bls.gov/cps/cpsaat11.htm) to interpolate race for the data from 2020 since it was not inherently aggregated in the same manner as that from 1990.
 
 ## Step 4: Testing the Solution
  I solicited feedback on this wireframe from 3 people, which was very helpful. The first person was very caught up with both the lack of color and my poor handwriting, so I preempted the second and third person with those two aspects and found their feedback to be more useful as it went beyond the simplistic limitations of the wireframe method I chose.
