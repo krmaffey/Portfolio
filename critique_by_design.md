@@ -25,7 +25,6 @@ I spent a lot of time on finding data that I could use as the original data sour
 
 ## Step 5: Building the Solution
 
-Upper left panel:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7308926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Notes
