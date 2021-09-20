@@ -49,5 +49,4 @@ One drawback I found in using Flourish was that the graphics were not easily re-
 [2020 Census Data by Race](https://www.bls.gov/cps/cpsaat11.htm)
 
 
-### Notes
-If you'd like to return to my main page, you can do so [here](/README.md).
+### If you'd like to return to my main page, you can do so [here](/README.md).
