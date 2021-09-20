@@ -25,7 +25,7 @@ I ended up using data from [here](https://www2.census.gov/library/publications/d
 
 Person 1 answered similarly to questions asking what the visualization is and what it was telling them. They stated that they thought it was depicting how women are employed in various fields over time, and that it was telling them that there have been changes in the way women have been employed over time by race. They were not surprised by anything, found the lack of color confusing, and thought that the intended audience was equal opportunity employers.
 
-Person 2 said that they thought the graphic was showing increased women's role in professional roles over time. Their main takeaway for what the graphic was telling them was that the last 30 years have been good to women. They thought that the intended audience was women who were angry about the lack of progress in the workplace, and they didn't find anything confusing but commented that the takeaways of the far left graphics could be emphasized by changing the type of chart since they depicted something different than the two bar charts on the right side of the panel.
+Person 2 said that they thought the graphic was showing an increase in women's role in professional roles over time. Their main takeaway for what the graphic was telling them was that the last 30 years have been good to women. They thought that the intended audience was women who were angry about the lack of progress in the workplace, and they didn't find anything confusing but commented that the takeaways of the far left graphics could be emphasized by changing the type of chart since they depicted something different than the two bar charts on the right side of the panel.
  
 Person 3 said that they thought the graphic symbolized change over time for women's role in society. They thought it was telling them that there are more women involved in professional roles now than there were in 1990. They thought the intended audience was women generally but not men because it was a stark depiction of a trend that still shows improvement needed for women, and they didn't think men would be receptive if it were presented to them in this way. They suggested using a Sankey diagram for the trends depicted in the left portion of the panel.
 
@@ -43,7 +43,9 @@ One drawback I found in using Flourish was that the graphics were not easily re-
 
 #### Solution Sources:
 [1990 Census Data](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
+<br>
 [2020 Census Data by Age and Occupation](https://www.bls.gov/cps/cpsaat09.htm)
+<br>
 [2020 Census Data by Race](https://www.bls.gov/cps/cpsaat11.htm)
 
 
