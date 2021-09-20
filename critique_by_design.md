@@ -18,12 +18,16 @@ I spent a lot of time on finding data after the original data source did not wor
 
 ![My Wireframe](wireframe.jpeg)
 
-I ended up using data from [here](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf) and [here](https://www.bls.gov/cps/cpsaat09.htm) for 1990 and 2020 respectively. I also used [this page](https://www.bls.gov/cps/cpsaat11.htm) to interpolate race for the data from 2020 since it was not inherently aggregated in the same manner as that from 1990.
+I ended up using data from [here](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf) and [here](https://www.bls.gov/cps/cpsaat09.htm) for 1990 and 2020 respectively. I also used [this page](https://www.bls.gov/cps/cpsaat11.htm) to interpolate race for the data from 2020 since it was not already aggregated in the same manner as that from 1990.
 
 ## Step 4: Testing the Solution
  I solicited feedback on this wireframe from 3 people, which was very helpful. The first person was very caught up with both the lack of color and my poor handwriting, so I preempted the second and third person with those two aspects and found their feedback to be more useful as it went beyond the simplistic limitations of the wireframe method I chose.
+
+Person 1 answered similarly to questions asking what the visualization is and what it was telling them. They stated that they thought it was depicting how women are employed in various fields over time, and that it was telling them that there have been changes in the way women have been employed over time by race. They were not surprised by anything, found the lack of color confusing, and thought that the intended audience was equal employment employers.
+
+Person 2 said that they thought the graphic was showing increased women's role in professional roles over time. Their main takeaway for what the graphic was telling them was that the last 30 years have been good to women. They thought that the intended audience was women who were angry about the lack of progress in the workplace, and they didn't find anything confusing but commented that the takeaways of the far left graphics could be emphasized by changing the type of chart since they depicted something different than the two bar charts on the right side of the panel.
  
-All three people immediately recognized that this visualization was depicting changes in women's employment over time, and were able to quickly and clearly articulate the specifics of those trends. I was interested by the responses I got when I asked them about the audience - one of them said it seemed intended for equal opportunity employers, one of them said that it was for women who were angry about the lack of progress in the workplace, and the third said it was intended for women generally (but not men).
+All three people immediately recognized that this visualization was depicting changes in women's employment over time, and were able to quickly and clearly articulate the specifics of those trends. I was interested by the responses I got when I asked them about the audience - one of them said it seemed intended for equal opportunity employers, one of them , and the third said it was intended for women generally (but not men).
  
 The final substantial comment I received from two of the three reviewers was that the left two visualizations were depicting a different type of trend than the right two, so they recommended changing the form or color of those.
 
