@@ -21,7 +21,7 @@ I spent a lot of time on finding data after the original data source did not wor
 I ended up using data from [here](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf) and [here](https://www.bls.gov/cps/cpsaat09.htm) for 1990 and 2020 respectively. I also used [this page](https://www.bls.gov/cps/cpsaat11.htm) to interpolate race for the data from 2020 since it was not already aggregated in the same manner as that from 1990.
 
 ## Step 4: Testing the Solution
- I solicited feedback on this wireframe from 3 people, which was very helpful. The first person was very caught up with both the lack of color and my poor handwriting, so I preempted the second and third person with those two aspects and found their feedback to be more useful as it went beyond the simplistic limitations of the wireframe method I chose.
+ I solicited feedback on this wireframe from 3 people, which was helpful. The first person was caught up with both the lack of color and my poor handwriting, so I preempted the second and third person with those two aspects and found their feedback to be more useful as it went beyond the simplistic limitations of the wireframe method I chose.
 
 Person 1 answered similarly to questions asking what the visualization is and what it was telling them. They stated that they thought it was depicting how women are employed in various fields over time, and that it was telling them that there have been changes in the way women have been employed over time by race. They were not surprised by anything, found the lack of color confusing, and thought that the intended audience was equal employment employers.
 
