@@ -21,16 +21,19 @@ I spent a lot of time on finding data that I could use as the original data sour
 ## Step 4: Testing the Solution
  I solicited feedback on this wireframe from 3 people, which was very helpful. The first person was very caught up with both the lack of color and my poor handwriting, so I preempted the second and third person with those two aspects and found their feedback to be more useful as it went beyond the simplistic limitations of the wireframe method I chose.
  
- All three people immediately recognized that this visualization was depicting changes in women's employment over time, and were able to quickly and clearly articulate that to me. I was very interested by the responses I got when I asked them about the audience - one of them said it seemed intended for equal opportunity employers, one of them said that it was for women who were angry about the lack of progress in the workplace, and the third said it was intended for women because men aren't willing/ready to hear the takeaway of the graph in such a direct way and would prefer to be walked gently to their conclusions.
+ All three people immediately recognized that this visualization was depicting changes in women's employment over time, and were able to quickly and clearly articulate that to me. I was very interested by the responses I got when I asked them about the audience - one of them said it seemed intended for equal opportunity employers, one of them said that it was for women who were angry about the lack of progress in the workplace, and the third said it was intended for women because it too clearly showed how many women did not have occupations and that was not something men wanted to deal with.
+ 
+The final substantial comment I received from two of the three reviewers was that the left two visualizations were depicting a different type of trend than the right two, so it might make it easier to get those takeaways by changing the type of visualization used in the left two graphs.
 
 ## Step 5: Building the Solution
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/7308926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div class="flourish-embed flourish-chart" data-src="visualisation/7308894"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+I was very excited to use all of Flourish's excellent editing options to get these graphs right. One drawback I found was that these were not easily re-sizeable on my page so instead of a panel of four, they are more like four separate but complimentary visualizations. I chose a color palate that was complimentary using [Colorbrewer](https://colorbrewer2.org/#type=qualitative&scheme=Set2&n=6) so that it was clear that these were interlinked graphs but that they each represented a different conclusion.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7311366"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7308894"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/7311385"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7308926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Notes
 If you'd like to return to my main page, you can do so [here](/README.md).
