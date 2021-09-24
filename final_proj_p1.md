@@ -16,3 +16,15 @@ A link to the publicly-accessible datasets you plan on using, or a link to a cop
 
 ## Method and Medium
 In a few paragraphs, you should document how you plan on completing your final project. 
+
+
+
+
+
+#### Sources:
+[1990 Census Data](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
+<br>
+[2020 Census Data by Age and Occupation](https://www.bls.gov/cps/cpsaat09.htm)
+
+
+### If you'd like to return to my main page, you can do so [here](/README.md).
