@@ -28,8 +28,8 @@ In this assignment, we work with OECD data and a few types of visualizations to 
 ### [Critique by Design](/critique_by_design.md)
 In this assignment, we find and critique a visualization, then create our own version using feedback during the design process. Click [here](/critique_by_design.md) to check it out!
 
-### Final Project (Part 1 of 3)
-This will be the first installment of my final project.
+### [Final Project (Part 1 of 3)](/final_proj_p1.md)
+In this assignment, we set up an outline, method, and data for our final projects. You can see it by clicking [here](/final_proj_p1.md)!
 
 ### Final Project (Part 2 of 3)
 This will be the second installment of my final project.
