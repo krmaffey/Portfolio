@@ -1,9 +1,16 @@
 # Final Project, Part 1
-In this assignment, we laid out the structure and some ideas for our final projects.
+In this assignment, we walk through the structure and ideas behind our final projects!
 
 ## Project Outline
-- A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-- A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
+This project aims to emphasize the importance of changing laws surrounding women's rights, especially with regards to violence against women, in the Middle East. To do so, the project highlights differences in global and regional trends on laws and attitudes towards violence against women, as well as examining the correlation between increased conflict in a country and the level of violence against women it tolerates. 
+
+#### Project Structure
+#### Setup: 
+- Women's rights, the average education level of women, and attitudes towards violence against women are improving
+- This will be demonstrated
+
+Conflict: Unfortunately, they are not improving at the same rate everywhere
+Resolution: This can change if laws and enforcement of existing laws that protect women improve
 
 ## Initial sketches
 Sketches that outline your initial thoughts for your final project
@@ -11,6 +18,8 @@ Sketches should mimic aspects of your outline, and build on the resounding messa
 Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
 
 ## Project Data
+The first data source I'm using is the [OECD Gender Portal](https://www.oecd.org/gender/data/), which has a fairly extensive (if not current) database. Within this database, I've focused in on a particular dataset that depicts attitudes towards domestic violence, laws against domestic violence, and the prevolence of domestic violence over someone's lifetime. 
+
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location.
 
@@ -22,9 +31,9 @@ In a few paragraphs, you should document how you plan on completing your final p
 
 
 #### Sources:
-[1990 Census Data](https://www2.census.gov/library/publications/decennial/1990/cp-1/cp-1-1.pdf)
+[OECD Gender Portal](https://www.oecd.org/gender/data/)
 <br>
-[2020 Census Data by Age and Occupation](https://www.bls.gov/cps/cpsaat09.htm)
+
 
 
 ### If you'd like to return to my main page, you can do so [here](/README.md).
