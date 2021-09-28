@@ -22,13 +22,13 @@ My project aims to emphasize the importance of changing laws surrounding women's
 ### Setup: 
 #### Potential Header: Attitudes, Laws, and Prevalence of Violence Against Women Across the Globe
 ![Setup Sketches](IMG_2691.jpeg)<br>
-In these sketches, I'd like to depict the global trends of some of the data that I'm using. I know I need to iterate on these more because so far most of my sketches have been bar or line charts, although I did try an area chart here. The idea in this section of the project, as outlined above, is that I will lay out the wider context about attitudes, laws, and prevalence of violence against women.
+In these sketches, I'm depicting the global trends of some of the data that I'm using. I know I need to iterate on these more because so far most of my sketches have been bar or line charts, although I did try an area chart here. The idea in this section of the project, as outlined above, is that I will lay out the wider context about attitudes, laws, and prevalence of violence against women.
 ### Conflict: 
 #### Potential Header: The Middle East Lags Behind
 ![Conflict Sketches](IMG_2692.jpeg)<br>
 In the conflict section, I want to depict how the Middle East is not changing at an equivalent pace to the rest of the globe. At this point I intend to start filling in details with words about laws in the Middle East and focusing in on particular countries to demonstrate how they compare globally.
-## Potential Header: Conflict and Violence Against Women in Yemen and Egypt
-This is not sketched yet, but I intend to have a section of the project dedicated towards exploring the trends of conflict and violence against women at a country level.
+#### Potential Header: Conflict and Violence Against Women in Yemen and Egypt
+This is not sketched yet, but I intend to have a section of the project dedicated to exploring the trends of conflict and violence against women at a country level.
 ### Resolution: 
 #### Potential Header: Change Awaits
 ![Res Sketches](IMG_2694.jpeg)<br>
@@ -50,9 +50,7 @@ Finally, the ACLED data will be examined at the country level, aggregated by yea
 ## Method and Medium
 I'll be using [Shorthand](https://shorthand.com) as the medium for my final project. I've not used the medium before, but it reminds me of a cross between Prezi and a webpage, and I'm excited to use it. I particularly like how it makes it easy to use both pictures and graphics in a way that easily catches the attention of the reader.
 
-I'll be completing this project by first executing my visualizations. Given the way the world works, I'm sure I will run into at least a few snags whether it is with formatting my data or making a visualization that appropriately reflects the data while still telling my story. Since I have already had some experience with data snafus, I want to focus first on my visualizations and data before I start piecing the project together.
-
-However, that being said, I will experiment with Shorthand after making my first visualization so that I have a good sense of how my visualizations appear on the site. I'd hate to get all the way through making my visualizations only to realize that they don't render well on Shorthand.
+I'll start to complete this project by executing my visualizations. Given the way the world works, I'm sure I will run into at least a few snags. Since I have already had some experience with data snafus, I want to focus first on my visualizations before I start piecing the project together. However, I will experiment with Shorthand after making my first visualization so that I have a good sense of how my visualizations appear on the site. I'd hate to get all the way through making my visualizations only to realize that they don't render well on Shorthand.
 
 I'll also remain open to this narrative shifting as I work on this project. I'd like to think I've done my work here to establish a good framework for the project, but I know that sometimes we learn new things, run into issues, or find cool new data. I have attempted to set myself up for success with this first project segment, and I look forward to learning and growing as I complete the rest of it.
 
