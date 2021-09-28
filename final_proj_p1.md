@@ -20,18 +20,18 @@ My project aims to emphasize the importance of changing laws surrounding women's
 
 ## Initial sketches
 ### Setup: 
-## Potential Header: Attitudes, Laws, and Prevalence of Violence Against Women Across the Globe
-![Setup Sketches](IMG_2691.jpeg)
+#### Potential Header: Attitudes, Laws, and Prevalence of Violence Against Women Across the Globe
+![Setup Sketches](IMG_2691.jpeg)<br>
 In these sketches, I'd like to depict the global trends of some of the data that I'm using. I know I need to iterate on these more because so far most of my sketches have been bar or line charts, although I did try an area chart here. The idea in this section of the project, as outlined above, is that I will lay out the wider context about attitudes, laws, and prevalence of violence against women.
 ### Conflict: 
-## Potential Header: The Middle East Lags Behind
-![Conflict Sketches](IMG_2692.jpeg)
+#### Potential Header: The Middle East Lags Behind
+![Conflict Sketches](IMG_2692.jpeg)<br>
 In the conflict section, I want to depict how the Middle East is not changing at an equivalent pace to the rest of the globe. At this point I intend to start filling in details with words about laws in the Middle East and focusing in on particular countries to demonstrate how they compare globally.
 ## Potential Header: Conflict and Violence Against Women in Yemen and Egypt
 This is not sketched yet, but I intend to have a section of the project dedicated towards exploring the trends of conflict and violence against women at a country level.
 ### Resolution: 
-## Potential Header: Change Awaits
-![Res Sketches](IMG_2694.jpeg)
+#### Potential Header: Change Awaits
+![Res Sketches](IMG_2694.jpeg)<br>
 In this sketch I wanted to show something positive - that attitudes about violence against women are better in the younger generation, for instance. I don't know that the data support this specific sketch, but I intend to use this section to both drive home my call to action and to offer some encouragement for change.
 
 ## Project Data
