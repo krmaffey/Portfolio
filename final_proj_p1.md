@@ -20,21 +20,19 @@ My project aims to emphasize the importance of changing laws surrounding women's
 
 ## Initial sketches
 ### Setup: 
-- Women's rights are improving globally
-- Women's labor force participation is increasing over time
-- Attitudes condemning violence against women are increasing 
+## Potential Header: Attitudes, Laws, and Prevalence of Violence Against Women Across the Globe
+![Setup Sketches](IMG_2691.jpeg)
+In these sketches, I'd like to depict the global trends of some of the data that I'm using. I know I need to iterate on these more because so far most of my sketches have been bar or line charts, although I did try an area chart here. The idea in this section of the project, as outlined above, is that I will lay out the wider context about attitudes, laws, and prevalence of violence against women.
 ### Conflict: 
-- Unfortunately, they are not improving at the same rate everywhere
-- The Middle East is not improving at a level that is equivalent to the global average
-- Some countries in the Middle East have even had a decreased trend 
+## Potential Header: The Middle East Lags Behind
+![Conflict Sketches](IMG_2692.jpeg)
+In the conflict section, I want to depict how the Middle East is not changing at an equivalent pace to the rest of the globe. At this point I intend to start filling in details with words about laws in the Middle East and focusing in on particular countries to demonstrate how they compare globally.
+## Potential Header: Conflict and Violence Against Women in Yemen and Egypt
+This is not sketched yet, but I intend to have a section of the project dedicated towards exploring the trends of conflict and violence against women at a country level.
 ### Resolution: 
-- This can get better! 
-- Laws must be updated 
-- Preexisting laws that were crafted to protect women need to be enforced appropriately
-- 
-Sketches that outline your initial thoughts for your final project
-Sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project
-Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
+## Potential Header: Change Awaits
+![Res Sketches](IMG_2694.jpeg)
+In this sketch I wanted to show something positive - that attitudes about violence against women are better in the younger generation, for instance. I don't know that the data support this specific sketch, but I intend to use this section to both drive home my call to action and to offer some encouragement for change.
 
 ## Project Data
 The first data source I'm using is the [OECD Gender Portal](https://www.oecd.org/gender/data/), which has a fairly extensive (if not current) database. Within this database, I've focused in on a particular dataset that depicts attitudes towards domestic violence, laws against domestic violence, and the prevolence of domestic violence over someone's lifetime. This is uploaded already to this repository and can be accessed [here](Gen_Vio_Data_OECD.csv). Even though there are only two years in this dataset - 2014 and 2019 - it's a great source of data for a number of Middle Eastern countries. It also contains enough countries from around the world to create good baseline trends of change from 2014 to 2019, which as discussed above is part of my project structure.
