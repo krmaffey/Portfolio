@@ -28,7 +28,7 @@ In these sketches, I'm depicting the global trends of some of the data that I'm 
 ![Conflict Sketches](IMG_2692.jpeg)<br>
 In the conflict section, I want to depict how the Middle East is not changing at an equivalent pace to the rest of the globe. At this point I intend to start filling in details with words about laws in the Middle East and focusing in on particular countries to demonstrate how they compare globally.
 #### Potential Header: Conflict and Violence Against Women in Yemen and Egypt
-This is not sketched yet, but I intend to have a section of the project dedicated to exploring the trends of conflict and violence against women at a country level.
+This is not sketched yet, but I intend to have a section of the project dedicated to exploring the trends of conflict and violence against women at a country level. I call out Yemen and Egypt in my proposed header, but it will depend on what I find for correlational data as far as which countries I will use in this section.
 ### Resolution: 
 #### Potential Header: Change Awaits
 ![Res Sketches](IMG_2694.jpeg)<br>
