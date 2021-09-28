@@ -19,6 +19,19 @@ My project aims to emphasize the importance of changing laws surrounding women's
 - Preexisting laws that were crafted to protect women need to be enforced appropriately
 
 ## Initial sketches
+### Setup: 
+- Women's rights are improving globally
+- Women's labor force participation is increasing over time
+- Attitudes condemning violence against women are increasing 
+### Conflict: 
+- Unfortunately, they are not improving at the same rate everywhere
+- The Middle East is not improving at a level that is equivalent to the global average
+- Some countries in the Middle East have even had a decreased trend 
+### Resolution: 
+- This can get better! 
+- Laws must be updated 
+- Preexisting laws that were crafted to protect women need to be enforced appropriately
+- 
 Sketches that outline your initial thoughts for your final project
 Sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project
 Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
@@ -28,7 +41,7 @@ The first data source I'm using is the [OECD Gender Portal](https://www.oecd.org
 
 The second source data source I'm using is from [World Bank Gender Statistics](https://databank.worldbank.org/source/gender-statistics/), which has data on labor force participation broken down by gender. The global data can be found in my repository [here](labor_force_global.csv) while the data for just Middle Eastern countries can be found [here](labor_force_me.csv). This data is somewhat tangential to the topic of violence against women, but I find that it gives further context to the broad situation of women in the Middle East. 
 
-The third data source I'm using to highlight conflict is [ACLED](https://acleddata.com/#/dashboard), or the Armed Conflict Location & Event Data Project. This is an extensive database that collects and georectifies data on conflict around the world. So far I've only examined overarching trends of the data, but intend to aggregate conflict events per country per year in order to compare them with data on attitudes and laws about violence against women. The data for 2019 is in my repository and can be found [here](acled_me_2019.csv).
+The third data source I'm using to highlight conflict is [ACLED](https://acleddata.com/#/dashboard), or the Armed Conflict Location & Event Data Project. This is an extensive database that collects and georectifies data on conflict around the world. So far I've only examined overarching trends of the data, but intend to aggregate conflict events per country per year in order to compare them with data on attitudes and laws about violence against women. The data for 2019 is in my repository and can be found [here](acled_me_2019.csv.zip).
 
 I'll be using the OECD gender data to depict how attitudes have changed from 2014 to 2019. I found that even across the three subsets of the data - attitudes, laws, and prevalence of violence towards women - there is not consistency in which Middle Eastern countries appear in the dataset. As such, I will likely pick out a few countries to dig into in detail rather than looking at the region in aggregate. I intend to use the global data to create trend lines so that I can compare Middle Eastern countries and demonstrate how many of them are not improving while the global trend is.
 
@@ -53,7 +66,7 @@ I'll also remain open to this narrative shifting as I work on this project. I'd 
 <br>
 [ACLED](https://acleddata.com/#/dashboard) (External Source Link)
 <br>
-[Conflict in the Middle East in 2019, ACLED](acled_me_2019.csv) (Data in Repository)
+[Conflict in the Middle East in 2019, ACLED](acled_me_2019.csv.zip) (Data in Repository)
 <br>
 [World Bank Gender Statistics](https://databank.worldbank.org/source/gender-statistics/) (External Source Link)
 <br>
