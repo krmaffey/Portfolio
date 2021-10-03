@@ -4,9 +4,9 @@ This assignment continues the process of constructing and refining the narrative
 ## Wireframe and storyboard
 I constructed my wireframe and storyboard using [Flourish](https://flourish.studio) for the wireframes and [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) for the storyboard.
 
-
+![Opening Presentation Photo](ouajbir-unsplash.jpg)
 Photo by [Hassan Ouajbir](https://unsplash.com/@hazardos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
+<br>
 ## User Research and Interviews
 #### Goals and Metrics
 Goal: Evaluate effectiveness of graphs
