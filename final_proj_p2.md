@@ -44,9 +44,7 @@ Hi my name is Kate and I'm working on a visualization project. My goal today is 
 Thank you so much for your time! Do you have any questions for me?
 
 ### Interview Results
-#### Feedback from Person 1
-**Person 1 profile: female, educated at a master's degree level, age 25**
-
+#### Feedback from Person 1 (Profile: female, educated to a master's level, age 25)
 _What do you think this site is for?_<br>
 "To raise money/awareness for organizations trying to improve the treatment of women in Middle Eastern countries"<br>
 _Describe what the site is telling you_<br>
@@ -57,9 +55,8 @@ _Is there anything you find surprising or confusing?_<br>
 "The phrase 'conflict events' is confusing; you should clarify if it's just men or both men and women who responded to the survey stating that it's okay for a man to beat his female relatives"<br>
 _Is there anything you would change or do differently?_<br>
 "Make the wording more succinct and darken the font of the country names on the x axis"<br>
-#### Feedback from Person 2
-**Person 2 profile: male, educated at a bachelor's degree level, age 27**
 
+#### Feedback from Person 2 (Profile: male, educated to a bachelor's level, age 27)
 _What do you think this site is for?_<br>
 "To help the layperson understand the current situation for women's rights in the Middle East, the importance of their continued amelioration, and then a call to action to make sure there's more data to help rectify the situation"<br>
 _Describe what the site is telling you_<br>
@@ -73,9 +70,7 @@ _Is there anything you would change or do differently?_<br>
 
 #### Changes I made
 
-#### Feedback from Person 3
-**Person 3 profile: male, educated at a PhD level, age 26**
-
+#### Feedback from Person 3 (Profile: male, educated to a PhD level, age 26)
 _What do you think this site is for?_<br>
 "Response"<br>
 _Describe what the site is telling you_<br>
