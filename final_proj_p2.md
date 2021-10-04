@@ -45,7 +45,8 @@ Thank you so much for your time! Do you have any questions for me?
 
 ### Interview Results
 #### Feedback from Person 1
-Person 1 profile: female, educated at a master's degree level, age 25
+**Person 1 profile: female, educated at a master's degree level, age 25**
+
 _What do you think this site is for?_<br>
 "To raise money/awareness for organizations trying to improve the treatment of women in Middle Eastern countries"<br>
 _Describe what the site is telling you_<br>
@@ -57,7 +58,8 @@ _Is there anything you find surprising or confusing?_<br>
 _Is there anything you would change or do differently?_<br>
 "Make the wording more succinct and darken the font of the country names on the x axis"<br>
 #### Feedback from Person 2
-Person 2 profile: male, educated at a bachelor's degree level, age 27
+**Person 2 profile: male, educated at a bachelor's degree level, age 27**
+
 _What do you think this site is for?_<br>
 "To help the layperson understand the current situation for women's rights in the Middle East, the importance of their continued amelioration, and then a call to action to make sure there's more data to help rectify the situation"<br>
 _Describe what the site is telling you_<br>
@@ -68,10 +70,22 @@ _Is there anything you find surprising or confusing?_<br>
 "I was surprised by the rate of intimate partner violence generally and also surprised that the trend between conflict events and women's rights was so pronounced"<br>
 _Is there anything you would change or do differently?_<br>
 "Feature the organizations doing the work earlier in the presentation"<br>
+
 #### Changes I made
 
 #### Feedback from Person 3
-Person 3 profile: male, educated at a PhD level, age 26
+**Person 3 profile: male, educated at a PhD level, age 26**
+
+_What do you think this site is for?_<br>
+"Response"<br>
+_Describe what the site is telling you_<br>
+"Response"<br>
+_Who do you think the intended audience is for the site?_<br>
+"Response"<br>
+_Is there anything you find surprising or confusing?_<br>
+"Response"<br>
+_Is there anything you would change or do differently?_<br>
+"Response"<br>
 
 ### Changes to be Implemented
 
