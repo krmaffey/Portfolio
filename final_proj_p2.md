@@ -44,31 +44,34 @@ Hi my name is Kate and I'm working on a visualization project. My goal today is 
 Thank you so much for your time! Do you have any questions for me?
 
 ### Interview Results
-#### Feedback from Person 1: a woman, bachelor's + some master's, age 25
-_What do you think this site is for?_
-"To raise money/awareness for organizations trying to improve the treatment of women in Middle Eastern countries"
-_Describe what the site is telling you_
-"There is more reported violence against women than there are people who are willing to say that they support it"
-_Who do you think the intended audience is for the site?_
-"WASPs"
-_Is there anything you find surprising or confusing?_
-"The phrase 'conflict events' is confusing; you should clarify if it's just men or both men and women who responded to the survey stating that it's okay for a man to beat his female relatives"
-_Is there anything you would change or do differently?_
-"Make the wording more succinct and darken the font of the country names on the x axis"
-#### Feedback from Person 2: a man, bachelor's, age 27
-_What do you think this site is for?_
-"To help the layperson understand the current situation for women's rights in the Middle East, the importance of their continued amelioration, and then a call to action to make sure there's more data to help rectify the situation"
-_Describe what the site is telling you_
-"That in a lot of Middle Eastern countries there are some clear areas in which women are suffering, especially the large percentages that think that it's okay for men to hit women. Also that the labor force participation ratio is unequal for men and women. And that there is a correlation between trends in conflict data and in the percentage of people who think it's okay for men to hit women"
-_Who do you think the intended audience is for the site?_
-"Probably a western, educated audience; people who might be in a position to donate money or time or advocate on behalf of women in the Middle East"
-_Is there anything you find surprising or confusing?_
-"I was surprised by the rate of intimate partner violence generally and also surprised that the trend between conflict events and women's rights was so pronounced"
-_Is there anything you would change or do differently?_
-"Feature the organizations doing the work earlier in the presentation"
+#### Feedback from Person 1
+Person 1 profile: female, educated at a master's degree level, age 25
+_What do you think this site is for?_<br>
+"To raise money/awareness for organizations trying to improve the treatment of women in Middle Eastern countries"<br>
+_Describe what the site is telling you_<br>
+"There is more reported violence against women than there are people who are willing to say that they support it"<br>
+_Who do you think the intended audience is for the site?_<br>
+"WASPs"<br>
+_Is there anything you find surprising or confusing?_<br>
+"The phrase 'conflict events' is confusing; you should clarify if it's just men or both men and women who responded to the survey stating that it's okay for a man to beat his female relatives"<br>
+_Is there anything you would change or do differently?_<br>
+"Make the wording more succinct and darken the font of the country names on the x axis"<br>
+#### Feedback from Person 2
+Person 2 profile: male, educated at a bachelor's degree level, age 27
+_What do you think this site is for?_<br>
+"To help the layperson understand the current situation for women's rights in the Middle East, the importance of their continued amelioration, and then a call to action to make sure there's more data to help rectify the situation"<br>
+_Describe what the site is telling you_<br>
+"That in a lot of Middle Eastern countries there are some clear areas in which women are suffering, especially the large percentages that think that it's okay for men to hit women. Also that the labor force participation ratio is unequal for men and women. And that there is a correlation between trends in conflict data and in the percentage of people who think it's okay for men to hit women"<br>
+_Who do you think the intended audience is for the site?_<br>
+"Probably a western, educated audience; people who might be in a position to donate money or time or advocate on behalf of women in the Middle East"<br>
+_Is there anything you find surprising or confusing?_<br>
+"I was surprised by the rate of intimate partner violence generally and also surprised that the trend between conflict events and women's rights was so pronounced"<br>
+_Is there anything you would change or do differently?_<br>
+"Feature the organizations doing the work earlier in the presentation"<br>
 #### Changes I made
 
-#### Feedback from Person 3: a man, bachelor's + some PhD, age 26
+#### Feedback from Person 3
+Person 3 profile: male, educated at a PhD level, age 26
 
 ### Changes to be Implemented
 
