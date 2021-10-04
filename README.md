@@ -31,7 +31,7 @@ In this assignment, we find and critique a visualization, then create our own ve
 ### [Final Project (Part 1 of 3)](/final_proj_p1.md)
 In this assignment, we set up an outline, method, and data for our final projects. You can see it by clicking [here](/final_proj_p1.md)!
 
-### Final Project (Part 2 of 3)
+### [Final Project (Part 2 of 3)](/final_proj_p2.md)
 This will be the second installment of my final project.
 
 ### Final Project (Part 3 of 3)
