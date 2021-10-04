@@ -2,7 +2,14 @@
 This assignment continues the process of constructing and refining the narrative and structure of our final projects.
 
 ## Wireframe and storyboard
-I constructed my wireframe and storyboard using [Flourish](https://flourish.studio) for the wireframes and [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) for the storyboard.
+I constructed my wireframe and storyboard using [Flourish](https://flourish.studio) for the wireframes and [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) for the storyboard. 
+
+I knew I wanted to get some time using Shorthand, so I decided to use it starting in this phase of the final project. I had an idea of what charts were important to my project, and I knew generally what my narrative was going to be. I found it challenging to portray the data in creative ways; I found myself constantly moving to use bar and line charts because those tend to be easy to grok.
+
+As I was crafting my wireframes, I ran into some issues on both the data and formatting fronts. For data, I wanted to examine multiple years of conflict data but my account was temporarily blocked because I hadn't received prior permission from ACLED and I had reached the level of allowed downloads for non-academic accounts. I was able to rectify this after a few days, but I had already done 2 of 3 user interviews so I just looked at one year's worth of data.
+On formatting, I couldn't figure out how to label a line in Flourish for a bar chart. And lo and behold, one of my participants asked what the bar was meant to represent.
+
+Here's a sneak peak of one of the incredible photos I found on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText); head over to [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) to see all my wireframes embedded into my storyboard!
 
 ![Opening Presentation Photo](ouajbir-unsplash.jpg)
 Photo by [Hassan Ouajbir](https://unsplash.com/@hazardos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -36,14 +43,36 @@ Hi my name is Kate and I'm working on a visualization project. My goal today is 
 #### Wrap up
 Thank you so much for your time! Do you have any questions for me?
 
+### Interview Results
+#### Feedback from Person 1: a woman, bachelor's + some master's, age 25
+_What do you think this site is for?_
+"To raise money/awareness for organizations trying to improve the treatment of women in Middle Eastern countries"
+_Describe what the site is telling you_
+"There is more reported violence against women than there are people who are willing to say that they support it"
+_Who do you think the intended audience is for the site?_
+"WASPs"
+_Is there anything you find surprising or confusing?_
+"The phrase 'conflict events' is confusing; you should clarify if it's just men or both men and women who responded to the survey stating that it's okay for a man to beat his female relatives"
+_Is there anything you would change or do differently?_
+"Make the wording more succinct and darken the font of the country names on the x axis"
+#### Feedback from Person 2: a man, bachelor's, age 27
+_What do you think this site is for?_
+"To help the layperson understand the current situation for women's rights in the Middle East, the importance of their continued amelioration, and then a call to action to make sure there's more data to help rectify the situation"
+_Describe what the site is telling you_
+"That in a lot of Middle Eastern countries there are some clear areas in which women are suffering, especially the large percentages that think that it's okay for men to hit women. Also that the labor force participation ratio is unequal for men and women. And that there is a correlation between trends in conflict data and in the percentage of people who think it's okay for men to hit women"
+_Who do you think the intended audience is for the site?_
+"Probably a western, educated audience; people who might be in a position to donate money or time or advocate on behalf of women in the Middle East"
+_Is there anything you find surprising or confusing?_
+"I was surprised by the rate of intimate partner violence generally and also surprised that the trend between conflict events and women's rights was so pronounced"
+_Is there anything you would change or do differently?_
+"Feature the organizations doing the work earlier in the presentation"
+#### Changes I made
+
+#### Feedback from Person 3: a man, bachelor's + some PhD, age 26
+
 ### Changes to be Implemented
-Feedback Person 1
 
-Feedback Person 2
 
-Changes I made
-
-Feedback Person 3
 
 
 ### If you'd like to return to my main page, you can do so [here](/README.md).
