@@ -32,6 +32,7 @@ Hi my name is Kate and I'm working on a visualization project. My goal today is 
 4. Is there anything you find surprising or confusing?
 5. Is there anything you would change or do differently?
 6. What other questions do you have about this site, if any?
+
 #### Wrap up
 Thank you so much for your time! Do you have any questions for me?
 
