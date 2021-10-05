@@ -45,6 +45,9 @@ Hi my name is Kate and I'm working on a visualization project. My goal today is 
 Thank you so much for your time! Do you have any questions for me?
 
 ### Interview Results
+
+Before starting my user interviews, I got to a point where I was comfortable with several of my wireframes via Flourish and arranged them in a manner that was similar to the structure I had proposed in the [first part](/final_proj_p1.md) of this project. However, I still felt like my narrative was lacking so I decided to get input and address it again.
+
 #### Feedback from Person 1 (Profile: female, educated to a master's level, age 25)
 _What do you think this site is for?_<br>
 "To raise money/awareness for organizations trying to improve the treatment of women in Middle Eastern countries"<br>
@@ -86,11 +89,21 @@ _Is there anything you find surprising or confusing?_<br>
 _Is there anything you would change or do differently?_<br>
 "I would pick other countries to highlight in the first graphic, to give perspective. In the second graphic, I would make the three focus countries more easily distinguishable and make the background countries lighter. You should stipulate what you mean by "female relatives" and "intimate partners" in the two graphs. Also add a transition before the last graphic."<br>
 
+#### Changes I made
+- Changed wording and added clarification of data sources regarding what is meant by the terms used in the graphics (female relative, intimate partner)
+
+#### Feedback from my group in class
+I discussed my narrative concerns with my group in class, and they made some helpful comments about possibilities for referencing foundations or think tanks in addition to requesting that the OECD and the WHO collect better data on violence against women. They also showed me how to put in names for the numbered navigation categories in Shorthand, and while I quickly implemented some categories I think those need to be refined. They suggested that I pick colors that are more distinguishable from one another in all of the graphs, as they said it was hard to follow which country was which. Finally we spent some time discussing the graphic that focuses on Egypt, and they agreed that there might be a better way to depict that data rather than a bar and line chart.
+
 ### Changes to be Implemented
-- Adjust graphics so that country names are darker
-- Add more countries to the graphic on attitudes towards violence against women
-- Explain what is meant by "female relatives" and "intimate partners" in two of the graphs
+- Adjust graphics so that country names are darker, but background countries are lighter. Consider adding reference countries to the graphic about attitudes towards violence against women
 - Add a transition before the last graphic
+- Research think tanks/foundations that might fund the collection of data on violence against women
+- Refine navigation categories
+- Make colors more differentiable on all graphics
+- Explore potential other formats for the graphics on conflict and attitudes toward violence against women
+
+I'm looking forward to pulling all of this together for the presentation next week!
 
 ### If you'd like to read more about this project you can do so by looking at [part 1](/final_proj_p1.md).
 ### If you'd like to return to my main page, you can do so [here](/README.md).
