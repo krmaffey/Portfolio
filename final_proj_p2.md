@@ -69,7 +69,7 @@ _Is there anything you would change or do differently?_<br>
 "Feature the organizations doing the work earlier in the presentation"<br>
 
 #### Changes I made
-- Reduced the amount of text on the page
+- Reduced the amount of text on the site
 - Featured the women's organizations earlier in the narrative
 - Changed some of the visualizations
 
