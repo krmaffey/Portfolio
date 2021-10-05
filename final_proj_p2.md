@@ -4,12 +4,13 @@ This assignment continues the process of constructing and refining the narrative
 ## Wireframe and storyboard
 I constructed my wireframe and storyboard using [Flourish](https://flourish.studio) for the wireframes and [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) for the storyboard. 
 
-I knew I wanted to get some time using Shorthand, so I decided to use it starting in this phase of the final project. I had an idea of what charts were important to my project, and I knew generally what my narrative was going to be. I found it challenging to portray the data in creative ways; I found myself constantly moving to use bar and line charts because those tend to be easy to grok.
+I knew I wanted to get some time using Shorthand, so I decided to use it starting in this phase of the final project. I had an idea of what charts were important to my project, and I knew generally what my narrative was going to be. I found it challenging to portray the data in creative ways; I found myself constantly moving to use bar and line charts because those tend to be easy to grok, and my data is mostly in aggregate form.
 
-As I was crafting my wireframes, I ran into some issues on both the data and formatting fronts. For data, I wanted to examine multiple years of conflict data but my account was temporarily blocked because I hadn't received prior permission from ACLED and I had reached the level of allowed downloads for non-academic accounts. I was able to rectify this after a few days, but I had already done 2 of 3 user interviews so I just looked at one year's worth of data.
+As I was crafting my wireframes, I ran into some issues on both the data and formatting fronts. For data, I wanted to examine multiple years of conflict data but my account was temporarily blocked because I hadn't received prior permission from ACLED and I had reached the level of allowed downloads for non-academic accounts. I was able to rectify this after a few days, but once I got access I found out they don't have data for two of the three countries for the timeframe I wanted to look at.
+
 On formatting, I couldn't figure out how to label a line in Flourish for a bar chart. And lo and behold, one of my participants asked what the bar was meant to represent.
 
-Here's a sneak peak of one of the incredible photos I found on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText); head over to [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) to see all my wireframes embedded into my storyboard!
+Here's a sneak peak of one of the incredible photos I found on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText); head over to [Shorthand](https://shorthand.com/organisations/JSrgFWI7zn) to see all my wireframes embedded in my storyboard!
 
 ![Opening Presentation Photo](ouajbir-unsplash.jpg)
 Photo by [Hassan Ouajbir](https://unsplash.com/@hazardos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -91,5 +92,5 @@ _Is there anything you would change or do differently?_<br>
 - Explain what is meant by "female relatives" and "intimate partners" in two of the graphs
 - Add a transition before the last graphic
 
+### If you'd like to read more about this project you can do so by looking at [part 1](/final_proj_p1.md).
 ### If you'd like to return to my main page, you can do so [here](/README.md).
-
