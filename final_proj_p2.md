@@ -69,23 +69,27 @@ _Is there anything you would change or do differently?_<br>
 "Feature the organizations doing the work earlier in the presentation"<br>
 
 #### Changes I made
+- Reduced the amount of text on the page
+- Featured the women's organizations earlier in the narrative
+- Changed some of the visualizations
 
 #### Feedback from Person 3 (Profile: male, educated to a PhD level, age 26)
 _What do you think this site is for?_<br>
-"Response"<br>
+"It shows statistics regarding abuse to women in Middle Eastern countries"<br>
 _Describe what the site is telling you_<br>
-"Response"<br>
+"This site is telling me about organizations in those countries that support women as well as laws and cultural practices that hinder their advancement"<br>
 _Who do you think the intended audience is for the site?_<br>
-"Response"<br>
+"People looking to learn more about women's rights around the world, specifically focused on the Middle east. But anyone interested in women's rights would find this site useful."<br>
 _Is there anything you find surprising or confusing?_<br>
-"Response"<br>
+"Nothing confusing; surprising were the statistics on the rate of people that thought it was okay to beat women"<br>
 _Is there anything you would change or do differently?_<br>
-"Response"<br>
+"I would pick other countries to highlight in the first graphic, to give perspective. In the second graphic, I would make the three focus countries more easily distinguishable and make the background countries lighter. You should stipulate what you mean by "female relatives" and "intimate partners" in the two graphs. Also add a transition before the last graphic."<br>
 
 ### Changes to be Implemented
-
-
-
+- Adjust graphics so that country names are darker
+- Add more countries to the graphic on attitudes towards violence against women
+- Explain what is meant by "female relatives" and "intimate partners" in two of the graphs
+- Add a transition before the last graphic
 
 ### If you'd like to return to my main page, you can do so [here](/README.md).
 
