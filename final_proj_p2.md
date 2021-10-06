@@ -17,22 +17,22 @@ Photo by [Hassan Ouajbir](https://unsplash.com/@hazardos?utm_source=unsplash&utm
 <br>
 ## User Research and Interviews
 #### Goals and Metrics
-Goal: Evaluate effectiveness of graphs
-Question: can someone with no background in this area gain an understanding from this website?
-Goal: Determine if call to action is relatable
+Goal: Evaluate effectiveness of graphs<br>
+Question: can someone with no background in this area gain an understanding from this website?<br>
+Goal: Determine if call to action is relatable<br>
 Question: does this page make people want to do something?
 #### Metrics:
 - Whether participants understand what the site is about
+- Whether participants take away some statistics or facts
 - Whether participants seem engaged/excited to learn more 
-- Whether participants are willing to do something in response to the call to action
 
 ### Target Audience
-The goal of my project is to raise awareness of international issues of women's rights in the Middle East. I hope to reach an audience of my peers, because I've found that American literacy of international issues tends to be limited unless they have traveled or worked abroad. As such, I'm looking to appeal to Americans between the ages of about 20 and 40 who are engaged in politics and/or international affairs. My hope is that in understanding the data presented in my project, they can use their engagement and voices to consider all parties who need attention on a global stage.
+The goal of my project is to raise awareness of international issues of women's rights in the Middle East. I hope to reach an audience of my peers, because I've found that American literacy of international issues tends to be limited unless they have traveled or worked abroad. As such, I'm looking to appeal to Americans between the ages of about 20 and 40 who are engaged in politics and/or international affairs. My hope is that in understanding the data presented in my project, they can use their voices to consider all parties who need attention on a global stage.
 ### Approach to Identifying Interviewees
-My target audience is very accessible to me since most of my friends and family fall into this group. I thought through asking some people who had some experiences internationally and some who didn't, in hopes that I could make my project compelling to a wider set of people.
+My target audience is very accessible to me since many of my friends and family fall into this group. I asked for feedback from people who had some experiences internationally and people who didn't, in the hope that I could make my project compelling to a wide set of people.
 ### Interview Script
 #### Introduction
-Hi my name is Kate and I'm working on a visualization project. My goal today is to get feedback on the project in order to evaluate what makes sense and what’s confusing. Everything we discuss will be anonymizes, and this feedback session will take less than 10 minutes of your time.
+Hi thanks for taking time to give feedback on my visualization project. My goal today is to evaluate what makes sense and what’s confusing. Everything we discuss will be anonymized, and this feedback session will take less than 10 minutes of your time.
 #### Main Section
 1. Can you tell me in your own words what you think this site is for?
 2. Can you describe to me what this is telling you?
@@ -46,7 +46,7 @@ Thank you so much for your time! Do you have any questions for me?
 
 ### Interview Results
 
-Before starting my user interviews, I got to a point where I was comfortable with several of my wireframes via Flourish and arranged them in a manner that was similar to the structure I had proposed in the [first part](/final_proj_p1.md) of this project. However, I still felt like my narrative was lacking so I decided to get input and address it again.
+Before starting my user interviews, I got to a point where I was comfortable with several of my wireframes via Flourish and arranged them in a manner that was similar to the structure I had proposed in the [first part](/final_proj_p1.md) of this project. However, I still felt like my narrative was lacking so I decided to get some of my feedback and then address it again.
 
 #### Feedback from Person 1 (Profile: female, educated to a master's level, age 25)
 _What do you think this site is for?_<br>
@@ -56,9 +56,9 @@ _Describe what the site is telling you_<br>
 _Who do you think the intended audience is for the site?_<br>
 "WASPs"<br>
 _Is there anything you find surprising or confusing?_<br>
-"The phrase 'conflict events' is confusing; you should clarify if it's just men or both men and women who responded to the survey stating that it's okay for a man to beat his female relatives"<br>
+"The phrase 'conflict events' is confusing. Also, you should clarify if it's just men or both men and women who responded to the survey stating that it's okay for a man to beat his female relatives"<br>
 _Is there anything you would change or do differently?_<br>
-"Make the wording more succinct and darken the font of the country names on the x axis"<br>
+"Make the wording more succinct and darken the font of the country names on the x axis of the graphics so they are more readable"<br>
 
 #### Feedback from Person 2 (Profile: male, educated to a bachelor's level, age 27)
 _What do you think this site is for?_<br>
@@ -75,7 +75,7 @@ _Is there anything you would change or do differently?_<br>
 #### Changes I made
 - Reduced the amount of text on the site
 - Featured the women's organizations earlier in the narrative
-- Changed some of the visualizations
+- Changed formatting in some of the visualizations
 
 #### Feedback from Person 3 (Profile: male, educated to a PhD level, age 26)
 _What do you think this site is for?_<br>
@@ -91,17 +91,18 @@ _Is there anything you would change or do differently?_<br>
 
 #### Changes I made
 - Changed wording and added clarification of data sources regarding what is meant by the terms used in the graphics (female relative, intimate partner)
+- Added a transition before the last graphic
 
 #### Feedback from my group in class
-I discussed my narrative concerns with my group in class, and they made some helpful comments about possibilities for referencing foundations or think tanks in addition to requesting that the OECD and the WHO collect better data on violence against women. They also showed me how to put in names for the numbered navigation categories in Shorthand, and while I quickly implemented some categories I think those need to be refined. They suggested that I pick colors that are more distinguishable from one another in all of the graphs, as they said it was hard to follow which country was which. Finally we spent some time discussing the graphic that focuses on Egypt, and they agreed that there might be a better way to depict that data rather than a bar and line chart.
+My group in class made some helpful comments about possibilities for referencing foundations or think tanks in addition to requesting that the OECD and the WHO collect better data on violence against women. They also showed me how to put in names for the numbered navigation categories in Shorthand, and while I quickly implemented some categories I think those need to be refined. They suggested that I pick colors that are more distinguishable from one another in all of the graphs, as they said it was hard to follow which country was which. Finally we spent some time discussing the graphic that focuses on Egypt, and they agreed that there might be a better way to depict that data rather than a bar and line chart.
 
 ### Changes to be Implemented
 - Adjust graphics so that country names are darker, but background countries are lighter. Consider adding reference countries to the graphic about attitudes towards violence against women
-- Add a transition before the last graphic
+- Consider changing the transition before the last graphic
 - Research think tanks/foundations that might fund the collection of data on violence against women
 - Refine navigation categories
 - Make colors more differentiable on all graphics
-- Explore potential other formats for the graphics on conflict and attitudes toward violence against women
+- Explore other formats for the graphics on conflict and attitudes toward violence against women
 
 I'm looking forward to pulling all of this together for the presentation next week!
 
