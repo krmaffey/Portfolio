@@ -18,9 +18,9 @@ Photo by [Hassan Ouajbir](https://unsplash.com/@hazardos?utm_source=unsplash&utm
 ## User Research and Interviews
 #### Goals and Metrics
 Goal: Evaluate effectiveness of graphs<br>
-Question: can someone with no background in this area gain an understanding from this website?<br>
+Question: Can someone with no background in this area gain an understanding from this website?<br>
 Goal: Determine if call to action is relatable<br>
-Question: does this page make people want to do something?
+Question: Does this page make people want to do something?
 #### Metrics:
 - Whether participants understand what the site is about
 - Whether participants take away some statistics or facts
