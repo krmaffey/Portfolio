@@ -34,6 +34,10 @@ Throughout my time doing user reserach and as I worked on this last part, I trie
 #### Research on the Call to Action
 My classmates had some great suggestions that would make my first item in the call to action more specific, so I dug into think tanks and foundations that might fund the collection of data on violence against women. Unfortunately I didn't find a lot, but I did uncover the fact that the World Health Organization and the United Nations are conducting a joint program to understand more about what data needs to be collected to help track and end violence against women globally. I linked to this in my call to action, although the program runs from 2018 to 2022 and has not yet published actual data, just recommendations for collecting it. The process made me curious about domestic violence in the U.S., so I researched what the U.S. government does about it. I was surprised that the Office for Violence Against Women had no published datasets on its prevalence, so I made that a note in my call to action for those who want something closer to home.
 
+#### Narrative and Navigation Adjustments
+
+#### Explore Other Visualization Formats
+
 
 A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 
