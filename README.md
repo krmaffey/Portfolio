@@ -34,7 +34,7 @@ In this assignment, we set up an outline, method, and data for our final project
 ### [Final Project (Part 2 of 3)](/final_proj_p2.md)
 In this assignment, we hone the narrative of our final project and solicit feedback to assist in making it more compelling. Click [here](/final_proj_p2.md) to read about it!
 
-### Final Project (Part 3 of 3)
-This will conclude my final project!
+### [Final Project (Part 3 of 3)](/final_proj_p3.md)
+This is the final installation that brings together my final project and includes my finalized product! You can see it by clicking [here](/final_proj_p3.md)!
 
 <!-- On Sep 7 I laid out the headers for assignments in this section. -->
