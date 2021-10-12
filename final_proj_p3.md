@@ -48,9 +48,7 @@ When discussing the visualizations with my classmates, I specifically asked them
 I identified my audience to be my peers - that is, educated middle class Americans between the ages of 25 and 40. While educated people generally tend to know about themes in parts of the world - i.e. that the Middle East has struggled with women's rights - they tend to not be able to understand the full extent of the ongoing issues. My hope is that this site brings awareness and encourages them to be active in this area, if not regarding the Middle East then engaging in their local communities. I kept this audience in mind throughout the process of creating this site, so most of my decisions revolved around making this information accessible to people like me.
 
 #### Process and Reflections
-I really enjoyed the process of creating this site, and found that it was most challenging to visualize the data (versus picking imagery and writing a narrative). 
-
-#### Other information ?
+I really enjoyed the process of creating this site, and found that it was most challenging to visualize the data (versus picking imagery and writing a narrative). Finding the data took some time but was relatively easy - rather, the processing and visualizing of the data was the most difficult part. My data was already aggregated but is a challenging subject so I found myself struggling to keep my visualizations uncluttered. However, I think the product I ended with does communicate things in a clear way despite the challenges I had during the process. I've done user research before but never for visualizations, and I found it very, very useful to get more sets of eyes on my product. I am excited to use the skills I've learned in this course as I move into my next job!
 
 ### Final Data Story
 [The Fight Continues: Violence Against Women, Conflict, and Women's Rights](https://colorbrewer2.org/)
