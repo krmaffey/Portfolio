@@ -25,6 +25,8 @@ Part 2 included the following:
 #### Part 2 can be read in full [here](/final_proj_p2.md)
 
 ## Part 3: Final Data Narrative
+This was the last part of our project where we brought everything together. I prepared a site that has all of my graphics and information, and I also created a truncated version of the presentation so that I could easily present it during the one minute we are allocated in class.
+
 #### Changes to graphic details and content
 I got several comments from my user research about the graphics themselves, which were useful. Apparently the color scheme I chose made it hard to compare different countries, so I chose a new one using [Colorbrewer](https://colorbrewer2.org/) that was more differentiable. I also got comments about how some of the axis colors made it hard to read country names, so I updated those. Finally, I got some comments on my main graphic that it would be useful to get a comparison with some non-Middle Eastern countries. I didn't find a good way to do this on the same graph without it becoming cluttered, so I created two versions of the graph and the user scrolls through them for comparison.
 
@@ -35,19 +37,39 @@ Throughout my time doing user reserach and as I worked on this last part, I trie
 My classmates had some great suggestions that would make my first item in the call to action more specific, so I dug into think tanks and foundations that might fund the collection of data on violence against women. Unfortunately I didn't find a lot, but I did uncover the fact that the World Health Organization and the United Nations are conducting a joint program to understand more about what data needs to be collected to help track and end violence against women globally. I linked to this in my call to action, although the program runs from 2018 to 2022 and has not yet published actual data, just recommendations for collecting it. The process made me curious about domestic violence in the U.S., so I researched what the U.S. government does about it. I was surprised that the Office for Violence Against Women had no published datasets on its prevalence, so I made that a note in my call to action for those who want something closer to home.
 
 #### Narrative and Navigation Adjustments
+I adjusted my narrative a bit based on user feedback. In addition to including Western countries for comparison with my first graph, I also added in more information about the three countries I chose to highlight. I also made the navigation more intuitive, and made sure my comments flowed throughout the site.
 
-#### Explore Other Visualization Formats
+#### Exploring Other Visualization Formats
+When discussing the visualizations with my classmates, I specifically asked them about a graphic that showed a comparison of Egypt's conflict events and its attitudes toward violence against women from 2014 to 2019. We discussed finding another form so that the graphic was more informative, and I commented that I found it to be almost "lying with statistics" because it portrayed a trend very clearly even though it was not a lot of data, potentially leading a reader to make causational assumptions. I played around with this graphic a bit but did not find a way to depict it that I felt was forthright, so I ended up deleting the graphic entirely. However, this exploration encouraged me to think about my other graphics and I found a better way to depict my graphic on labor force participation, so it was a good exercise for me in creative thinking about how data can be understood visually.
+
+#### Audience
+I identified my audience to be my peers - that is, educated middle class Americans between the ages of 25 and 40. While educated people generally tend to know about themes in parts of the world - i.e. that the Middle East has struggled with women's rights - they tend to not be able to understand the full extent of the ongoing issues. My hope is that this site brings awareness and encourages them to be active in this area, if not regarding the Middle East then engaging in their local communities. I kept this audience in mind throughout the process of creating this site, so most of my decisions revolved around making this information accessible to people like me.
+
+### Process and Reflections
+I really enjoyed the process of creating this site, and found that it was most challenging to visualize the data (versus picking imagery and writing a narrative). 
 
 
-A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+### Final Data Story
+[The Fight Continues: Violence Against Women, Conflict, and Women's Rights](https://colorbrewer2.org/)
 
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+#### Other information ?
 
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
+### References
+1. France 24, ["As grassroots feminist movement takes hold, Egypt moves to restrict women's rights even further"](https://www.france24.com/en/middle-east/20210401-as-grassroots-feminist-movement-takes-hold-egypt-moves-to-restrict-women-s-rights-even-further)<br>
+2. Human Rights Watch, ["World Report 2020: Jordan"](https://www.hrw.org/world-report/2020/country-chapters/jordan#)<br>
+3. Human Rights Watch, ["Lebanon: Broken Promises On Women’s Rights"](https://www.hrw.org/news/2020/11/04/lebanon-broken-promises-womens-rights#)<br>
+4. WHO, [Violence Against Women](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)<br>
+5. United Nations, ["Strengthening Methodologies and Measurement and Building National Capacities for Violence Against Women Data"](https://endvawnow.org/en/initiatives-articles/66-overview.html)<br>
+6. OECD, ["Violence Against Women"](https://data.oecd.org/inequality/violence-against-women.htm)<br>
+7. Military.com, ["U.S. Military Aid to Egypt Released Despite Rights Concerns"](https://www.military.com/daily-news/2021/09/15/us-military-aid-egypt-released-despite-rights-concerns.html)<br>
 
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly.  Make sure to add / update any citations and / or other content that you used to create your data story.  Make sure you have cited external sources correctly.  References should also be clearly identified on your final data story itself.  Review the library's guide if you have questions.
+#### Images
+All images sourced from [Unsplash](https://unsplash.com/s/photos/egypt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Photographers by order of appearance: [Hassan Ouajbir](https://unsplash.com/@hazardos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Aliko Sunawang](https://unsplash.com/@sunawang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Ahmad Qaisieh](https://unsplash.com/@aqaisieh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Mohamed Nohassi](https://unsplash.com/@coopery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Juli Kosolapova](https://unsplash.com/@yuli_superson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), and [Rashid Khreiss](https://unsplash.com/@rush_intime?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br>
 
-Include any other information that helps round out your data story. (Part III)
+#### Visualizations
+OECD, ["Violence Against Women"](https://data.oecd.org/inequality/violence-against-women.htm)<br>
+World Bank, ["Ratio of female to male labor force participation"](https://data.worldbank.org/indicator/SL.TLF.CACT.FM.ZS)<br>
+[“Armed Conflict Location & Event Data Project (ACLED)"](https://acleddata.com/#/dashboard) (used with permission)<br>
 
 #### Part 1 of this project can be found [here](/final_proj_p1.md).
 #### Part 2 of this project can be found [here](/final_proj_p2.md).
