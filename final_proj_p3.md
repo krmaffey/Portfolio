@@ -51,13 +51,13 @@ I identified my audience to be my peers - that is, educated middle class America
 I really enjoyed the process of creating this site, and found that it was most challenging to visualize the data (versus picking imagery and writing a narrative). Finding the data took some time but was relatively easy - rather, the processing and visualizing of the data was the most difficult part. My data was already aggregated but is a challenging subject so I found myself struggling to keep my visualizations uncluttered. However, I think the product I ended with does communicate things in a clear way despite the challenges I had during the process. I've done user research before but never for visualizations, and I found it very, very useful to get more sets of eyes on my product. I am excited to use the skills I've learned in this course as I move into my next job!
 
 ### Final Data Story
-[The Fight Continues: Violence Against Women, Conflict, and Women's Rights](https://colorbrewer2.org/)
+[The Fight Continues: Violence Against Women, Conflict, and Women's Rights](https://carnegiemellon.shorthandstories.com/the-fight-continues-violence-against-women/index.html)
 
 ### References
 1. France 24, ["As grassroots feminist movement takes hold, Egypt moves to restrict women's rights even further"](https://www.france24.com/en/middle-east/20210401-as-grassroots-feminist-movement-takes-hold-egypt-moves-to-restrict-women-s-rights-even-further)<br>
 2. Human Rights Watch, ["World Report 2020: Jordan"](https://www.hrw.org/world-report/2020/country-chapters/jordan#)<br>
 3. Human Rights Watch, ["Lebanon: Broken Promises On Women’s Rights"](https://www.hrw.org/news/2020/11/04/lebanon-broken-promises-womens-rights#)<br>
-4. WHO, [Violence Against Women](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)<br>
+4. WHO, ["Violence Against Women"](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)<br>
 5. United Nations, ["Strengthening Methodologies and Measurement and Building National Capacities for Violence Against Women Data"](https://endvawnow.org/en/initiatives-articles/66-overview.html)<br>
 6. OECD, ["Violence Against Women"](https://data.oecd.org/inequality/violence-against-women.htm)<br>
 7. Military.com, ["U.S. Military Aid to Egypt Released Despite Rights Concerns"](https://www.military.com/daily-news/2021/09/15/us-military-aid-egypt-released-despite-rights-concerns.html)<br>
