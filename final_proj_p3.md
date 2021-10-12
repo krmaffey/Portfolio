@@ -11,6 +11,7 @@ Part 1 included the following:
 - An explanation of data sources
 - Copies of the data I planned to use
 - Articulation of method and medium for the project
+
 #### Part 1 can be read in full [here](/final_proj_p1.md)
 
 ## Part 2: Design and User Research
@@ -22,6 +23,7 @@ Part 2 included the following:
 - User research protocol
 - User interviews
 - Findings and updates from user research
+
 #### Part 2 can be read in full [here](/final_proj_p2.md)
 
 ## Part 3: Final Data Narrative
@@ -45,14 +47,13 @@ When discussing the visualizations with my classmates, I specifically asked them
 #### Audience
 I identified my audience to be my peers - that is, educated middle class Americans between the ages of 25 and 40. While educated people generally tend to know about themes in parts of the world - i.e. that the Middle East has struggled with women's rights - they tend to not be able to understand the full extent of the ongoing issues. My hope is that this site brings awareness and encourages them to be active in this area, if not regarding the Middle East then engaging in their local communities. I kept this audience in mind throughout the process of creating this site, so most of my decisions revolved around making this information accessible to people like me.
 
-### Process and Reflections
+#### Process and Reflections
 I really enjoyed the process of creating this site, and found that it was most challenging to visualize the data (versus picking imagery and writing a narrative). 
 
+#### Other information ?
 
 ### Final Data Story
 [The Fight Continues: Violence Against Women, Conflict, and Women's Rights](https://colorbrewer2.org/)
-
-#### Other information ?
 
 ### References
 1. France 24, ["As grassroots feminist movement takes hold, Egypt moves to restrict women's rights even further"](https://www.france24.com/en/middle-east/20210401-as-grassroots-feminist-movement-takes-hold-egypt-moves-to-restrict-women-s-rights-even-further)<br>
