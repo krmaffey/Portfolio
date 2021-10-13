@@ -1,6 +1,10 @@
-# Portfolio
+# Telling Stories with Data Portfolio
  This is a public collection of visualization projects that I'm developing as part of a CMU graduate course.
- 
+
+## Quick Links
+[Project on violence against women in the Middle East](https://carnegiemellon.shorthandstories.com/the-fight-continues-violence-against-women/index.html#group-section-Intimate-Partner-Violence-FSjBii99XJ)<br>
+[Critique by design assignment](/critique_by_design.md)<br>
+To view the rest of my work, scroll to the bottom of this page!
  
 ## About Me
 I'm a graduate student at Carnegie Mellon University focusing on data analytics and the implementation of emerging technologies, such as machine learning. My academic background is in social science, but I was exposed to the critical nature of parsing data during my first job after college. My experience there paired with other professional opportunities to exercise big-picture thinking led me to hone in on emerging technologies and policy as my areas of interest. Carnegie Mellon is a spectacular place to channel my passion into a concrete skillset, and I count myself very fortunate to be here.
@@ -36,5 +40,3 @@ In this assignment, we hone the narrative of our final project and solicit feedb
 
 ### [Final Project (Part 3 of 3)](/final_proj_p3.md)
 This is the final installation that brings together my final project and includes my finalized product! You can see it by clicking [here](/final_proj_p3.md)!
-
-<!-- On Sep 7 I laid out the headers for assignments in this section. -->
