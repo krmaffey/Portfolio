@@ -1,5 +1,5 @@
 # Telling Stories with Data Portfolio
- This is a public collection of visualization projects that I'm developing as part of a CMU graduate course.
+ This is a public collection of visualization projects that I developed as part of a CMU graduate course.
 
 ## Quick Links
 [Project on violence against women in the Middle East](https://carnegiemellon.shorthandstories.com/the-fight-continues-violence-against-women/index.html#group-section-Intimate-Partner-Violence-FSjBii99XJ)<br>
@@ -23,6 +23,7 @@ While I care deeply about data-driven decisions (particularly at a strategic lev
 
 I hope that my time in this course allows me to have a sense of how to construct a visualization with the appropriate color, typology, and story for any given context. I hope it makes me feel more comfortable when I go to design something, and that I can do so faster than I can right now. Once I graduate from CMU, I'll go back to working for the organization that is funding my degree.
 
+I'm excited to update this section by saying that this course has been phenomenally instructive! I feel very prepared to visualize data as I move into my next role.
 
 ## Portfolio
 
