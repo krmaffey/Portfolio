@@ -106,5 +106,5 @@ My group in class made some helpful comments about possibilities for referencing
 
 I'm looking forward to pulling all of this together for the presentation next week!
 
-### If you'd like to read more about this project you can do so by looking at [part 1](/final_proj_p1.md).
+### If you'd like to read more about this project you can do so by looking at [part 1](/final_proj_p1.md) and [part 3](/final_proj_p3.md).
 ### If you'd like to return to my main page, you can do so [here](/README.md).
