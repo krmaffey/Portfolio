@@ -71,5 +71,5 @@ I'll also remain open to this narrative shifting as I work on this project. I'd 
 [World Bank Middle East Labor Force Data](labor_force_me.csv) (Data in Repository)
 
 
-### If you'd like to continue reading through my process for this project, you can do so by looking at [part 2](/final_proj_p2.md).
+### If you'd like to continue reading through my process for this project, you can do so by looking at [part 2](/final_proj_p2.md) and [part 3](/final_proj_p3.md).
 ### If you'd like to return to my main page, you can do so [here](/README.md).
